@@ -1,7 +1,7 @@
 name: BillyOh
 favicon: null
-layout_spectrum: 0.3251568905543536
-typography_spectrum: 0.5112560342531651
+layout_spectrum: 0.31794
+typography_spectrum: 0.66057
 title: BillyOh
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#edb4aa'
     - '#494949'
   brandStrength: 0.125
-  lightness: 0.0008069463074207306
-  saturation: 0.5222173980437219
-  rhythmicContrast: 0.46774308010935783
+  lightness: 0.9375
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
