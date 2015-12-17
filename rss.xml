@@ -4,8 +4,15 @@
         <description><![CDATA[BillyOh - Creating an Ideal Garden Lifestyle for You]]></description>
         <link>https://thegrid.ai/billyoh/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Dec 2015 15:26:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Dec 2015 15:27:39 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/billyoh/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Animating Clipped Elements In SVG]]></title>
+            <description><![CDATA[<article><h1>Animating Clipped Elements In SVG</h1><p>Scalable Vector Graphics (or SVG) lend developers an incredible ability to display crisp, beautiful graphics at any size or resolution. SVG can also be animated using various techniques. In combination with clipping paths, interesting effects can be achieved.</p></article>]]></description>
+            <link>https://thegrid.ai/billyoh/animating-clipped-elements-in-svg/index.html</link>
+            <guid isPermaLink="false">595dbdc5-d94e-4c54-b1a8-d3d2fb12adef</guid>
+            <pubDate>Thu, 17 Dec 2015 15:27:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[User Experience Is More Than A Single User InterfaceLink]]></title>
             <description><![CDATA[<article><h1>User Experience Is More Than A Single User InterfaceLink</h1><p>I am a user experience designer. But you wouldn’t recognize me as one. I don’t often use Photoshop, Skitch or any other graphics package. You will rarely find me designing hero banners or carousels. I don’t even find myself wireframing much these days. Even so, I do design the experiences of users.</p></article>]]></description>
